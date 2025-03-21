@@ -1,0 +1,70 @@
+LICENÇA PÚBLICA GERAL GNU
+Versão 3, 29 de junho de 2007
+
+Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+Todos têm permissão para copiar e distribuir cópias literais
+deste documento de licença, mas alterá-lo não é permitido.
+
+Preâmbulo
+
+A Licença Pública Geral GNU é uma licença copyleft livre para
+software e outros tipos de trabalhos.
+
+As licenças para a maioria dos softwares e outros trabalhos práticos são projetadas
+para tirar sua liberdade de compartilhar e alterar os trabalhos. Por outro lado,
+a Licença Pública Geral GNU tem como objetivo garantir sua liberdade de
+compartilhar e alterar todas as versões de um programa - para garantir que ele permaneça um
+software livre para todos os seus usuários. Nós, a Free Software Foundation, usamos a
+Licença Pública Geral GNU para a maioria dos nossos softwares; ela se aplica também a
+qualquer outro trabalho lançado dessa forma por seus autores. Você pode aplicá-la aos
+seus programas também.
+Para proteger seus direitos, precisamos impedir que outros neguem a você
+esses direitos ou peçam que você os abra mão. Portanto, você tem
+certas responsabilidades se distribuir cópias do software, ou se
+modificá-lo: responsabilidades de respeitar a liberdade dos outros.
+Desenvolvedores que usam a GNU GPL protegem seus direitos com duas etapas:
+(1) reivindicar direitos autorais sobre o software e (2) oferecer a você esta Licença
+dando a você permissão legal para copiá-lo, distribuí-lo e/ou modificá-lo.
+
+Para a proteção dos desenvolvedores e autores, a GPL explica claramente
+que não há garantia para este software livre. Para o bem dos usuários e
+dos autores, a GPL exige que versões modificadas sejam marcadas como
+alteradas, para que seus problemas não sejam atribuídos erroneamente a
+autores de versões anteriores.
+TERMOS E CONDIÇÕES
+
+0. Definições.
+
+"Esta Licença" refere-se à versão 3 da Licença Pública Geral GNU.
+
+"Direitos autorais" também significa leis semelhantes a direitos autorais que se aplicam a outros tipos de
+trabalhos, como máscaras semicondutoras.
+
+"O Programa" refere-se a qualquer trabalho protegido por direitos autorais licenciado sob esta
+Licença. Cada licenciado é chamado de "você". "Licenciados" e
+"destinatários" podem ser indivíduos ou organizações.
+
+"Modificar" um trabalho significa copiar ou adaptar todo ou parte do trabalho
+de uma forma que exija permissão de direitos autorais, além de fazer uma
+cópia exata. O trabalho resultante é chamado de "versão modificada" do
+trabalho anterior ou um trabalho "baseado" no trabalho anterior.
+
+Um "trabalho coberto" significa o Programa não modificado ou um trabalho baseado
+no Programa.
+Patentes.
+
+Um "contribuidor" é um detentor de direitos autorais que autoriza o uso sob esta
+Licença do Programa ou de um trabalho no qual o Programa é baseado. O
+trabalho assim licenciado é chamado de "versão do contribuidor" do contribuidor.
+
+As "reivindicações de patente essenciais" de um contribuidor são todas as reivindicações de patente
+de propriedade ou controladas pelo contribuidor, já adquiridas ou
+adquiridas posteriormente, que seriam violadas de alguma forma, permitida
+por esta Licença, de fazer, usar ou vender sua versão do contribuidor,
+mas não incluem reivindicações que seriam violadas apenas como uma
+consequência de modificação posterior da versão do contribuidor. Para
+fins desta definição, "controle" inclui o direito de conceder
+sublicenças de patente de uma maneira consistente com os requisitos
+desta Licença.
+
+Cada colaborador concede a você uma licença de patente não exclusiva, mundial e isenta de royalties, sob as reivindicações de patente essenciais do colaborador, para criar, usar, vender, oferecer para venda, importar e de outra forma executar, modificar e propagar o conteúdo de sua versão de colaborador.
